@@ -1,5 +1,5 @@
 # 仓库介绍：  
-本仓库用来提升作者即contributer的算法设计能力和规范性。  
+本仓库用来提升作者及contributor的算法设计能力和规范性。  
 包含Python版本(main)和Java版本（java）。  
 
 # Python版编程规范   
